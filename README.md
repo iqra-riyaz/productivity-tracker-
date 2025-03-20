@@ -52,7 +52,7 @@ npm install
 npm run dev
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+4. Open https://iqr-productivity-tracker.netlify.app/ in your browser.
 
 ## Project Structure
 
